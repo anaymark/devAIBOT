@@ -1,4 +1,5 @@
 module.exports = {
+	//sample tokens 
 	//token generation field for your app
     FB_PAGE_TOKEN: 'EAAWZA4bD4cbQBAOKHALYC9q2F2RNLJAF5iMxE5tNqzUfgX9k4bh0coMOFPhtmYdalw2CT4HVm36s4DiYA2ca8OJROLu5Sj07JUWBKpMLQ9Am5lXIO9dtg0OGNfLMokF6x3Mm5mfLhIkUqiIQNWXd1LKcANPEmXIZCOjUHVFAZDZD',
     //page subscription verify token
